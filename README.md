@@ -19,4 +19,4 @@ npm run test
 ```
 
 P.S
-.env file was removed from .gitignore on purpose for more convinience of the person that will test this
+.env file was removed from .gitignore. This was done intentionally to make testing easier
