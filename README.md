@@ -13,5 +13,10 @@ npm run redis
 npm run start:dev
 ```
 
-P.S.
+# Run tests
+```
+npm run test
+```
+
+P.S
 .env file was removed from .gitignore on purpose for more convinience of the person that will test this
