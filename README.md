@@ -18,5 +18,10 @@ npm run start:dev
 npm run test
 ```
 
+# Open Swagger
+```
+http://localhost:3000/api
+```
+
 P.S
 .env file was removed from .gitignore. This was done intentionally to make testing easier
